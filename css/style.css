@@ -1,4 +1,11 @@
 .odin-recipe img{
     max-width: 100%;
     height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.odin-recipe a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
 }
